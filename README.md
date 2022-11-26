@@ -1,7 +1,7 @@
 
 
 > Status: Desenvolvido ✅
-### App para simular negociação da bolsa de valores. Projeto feito em conjunto com o curso de TypeScript da Alura
+### App para simular negociação da bolsa de valores. Projeto feito em conjunto com o curso de formação em TypeScript da Alura. Etapa 1.
 
 ## Tecnologias utilizadas:
 
