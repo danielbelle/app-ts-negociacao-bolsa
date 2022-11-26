@@ -18,7 +18,7 @@
 
 
 1) clone este repositório
-2) no terminal rode: git clone https://github.com/danielbelle/app-ts-negociacao-bolsa.git
+2) no terminal rode: git clone [https://github.com/danielbelle/app-ts-negociacao-bolsa.git](https://github.com/danielbelle/app-ts-negociacao-bolsa.git)
 3) acesse a pasta do diretório principal
 4) no terminal rode: npm install
 5) no terminal rode: npm run start
